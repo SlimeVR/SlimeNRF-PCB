@@ -17,6 +17,18 @@ pcb|3d
 --|--
 ![pcb](../../blob/main/images/slimenrfaux.png)|![3d](../../blob/main/images/slimenrfaux_3d.png)
 
+# slimenrfauxaux
+
+Revision 1
+
+icm42688 or compatible, mmc5983ma
+
+* 0201 components are hard to solder
+
+pcb|3d
+--|--
+![pcb](../../blob/main/images/slimenrfauxaux.png)|![3d](../../blob/main/images/slimenrfauxaux_3d.png)
+
 # slimenrfaux2
 
 Revision 2
@@ -28,6 +40,16 @@ isp1507-ax (nrf52832), icm42688 or compatible, mmc5983ma
 pcb|3d
 --|--
 ![pcb](../../blob/main/images/slimenrfaux2.png)|![3d](../../blob/main/images/slimenrfaux2_3d.png)
+
+# slimenrfauxaux2
+
+Revision 2
+
+icm42688 or compatible, mmc5983ma
+
+pcb|3d
+--|--
+![pcb](../../blob/main/images/slimenrfauxaux2.png)|![3d](../../blob/main/images/slimenrfauxaux2_3d.png)
 
 # slimenrfdock
 
