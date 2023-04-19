@@ -1,3 +1,7 @@
+## notes
+
+You need a segger jlink programmer to use this, USB dfu does not come with the initial bootloader of isp, and nrf52832 has no USB connectivity. nRF52840-dk development kit can be used, and also can double as a dongle for the trackers.
+
 # slimenrfaux
 
 Revision 1
