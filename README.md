@@ -10,6 +10,7 @@ isp1807-lr (nrf52840), icm42688 or compatible, mmc5983ma
 
 * USB untested
 * Charger is hard to solder
+* LED with default resistor is too dim
 
 pcb|3d
 --|--
