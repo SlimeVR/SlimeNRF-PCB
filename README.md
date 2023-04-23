@@ -35,7 +35,10 @@ Revision 2
 
 isp1507-ax (nrf52832), icm42688 or compatible, mmc5983ma
 
-* Untested
+* Uses nrf52832, no USB, SWD pins on dock connector instead
+* No 0201 parts
+* Removed onboard charger
+* LED is brighter (sink instead of source)
 
 pcb|3d
 --|--
