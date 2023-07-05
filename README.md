@@ -60,7 +60,7 @@ dock test pcb
 
 charging for 8 devices at 300mA, max power draw 2.4A
 
-* Untested
+* Gets pretty hot if all 8 chargers are in use but it works fine
 
 pcb|3d
 --|--
