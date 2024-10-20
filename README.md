@@ -25,7 +25,7 @@ pcb|3d
 --|--
 ![pcb](../../blob/main/images/slimenrfaux2.png)|![3d](../../blob/main/images/slimenrfaux2_3d.png)
 
-pcb before reflow|pcb with battery|tracker and case (![slimenrf_2.stl](../../blob/main/slimecase/slimenrf_2.stl))
+pcb before reflow|pcb with battery|tracker and case (![slimenrf_2.stl](../../blob/main/slimecase/old/slimenrf_2.stl))
 --|--|--
 ![pcb before reflow](../../blob/main/images/IMG_20230423_154530.webp)|![pcb with battery](../../blob/main/images/IMG_20230422_233642.webp)|![tracker and case](../../blob/main/images/DSC_0067.webp)
 
@@ -54,7 +54,7 @@ pcb|3d
 --|--
 ![pcb](../../blob/main/images/slimenrfaux.png)|![3d](../../blob/main/images/slimenrfaux_3d.png)
 
-finished pcb|pcb with battery|completed tracker (case: ![slimenrf_2_closed.stl](../../blob/main/slimecase/slimenrf_2_closed.stl))
+finished pcb|pcb with battery|completed tracker (case: ![slimenrf_2_closed.stl](../../blob/main/slimecase/old/slimenrf_2_closed.stl))
 --|--|--
 ![finished pcb](../../blob/main/images/IMG_20230327_203040.webp)|![pcb with battery](../../blob/main/images/IMG_20230402_175121.webp)|![completed tracker](../../blob/main/images/DSC_0383.webp)
 
